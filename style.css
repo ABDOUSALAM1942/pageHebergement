@@ -1,0 +1,496 @@
+#hebergement {
+    text-align: center;
+}
+
+.longCards {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 35px;
+    color: #302a50;
+}
+
+#sousTitre,
+#sousTitre2 {
+    font-size: 25px;
+    color: #302a50;
+}
+
+/* 1er card */
+#stand {
+    border: 1px solid;
+    height: 75rem;
+    width: 18rem;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 1rem;
+    box-shadow: 10px 5px 5px rgb(201, 192, 192);
+    border-radius: 5px
+}
+
+hr {
+    width: 80%;
+}
+
+h2 {
+    color: #000080;
+    text-align: start;
+    margin-left: 3rem;
+}
+
+#pHeber {
+    text-align: start;
+    margin-left: 3rem;
+    font-size: 18px;
+    color: #302a50;
+}
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+    color: #000080;
+}
+
+#trois {
+    font-size: 55px;
+    color: #000080;
+}
+
+#duree {
+    color: #000080;
+}
+
+.button {
+    color: #000080;
+    border: none;
+    padding: 5px;
+    border-radius: 20px;
+    width: 80%;
+    height: 3rem;
+    font-size: 20px;
+    background-color: rgb(23, 237, 237);
+}
+
+.but {
+    color: #000080;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    width: 80%;
+    height: 3rem;
+    font-size: 20px;
+    background-color: transparent;
+}
+
+
+
+.product-list {
+    text-align: start;
+    list-style: none;
+    padding: 20px;
+    width: 100%;
+}
+
+.product-list li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    width: 80%;
+    color: #000080;
+
+}
+
+
+.product-icon {
+    margin-left: 15px;
+}
+
+.product-name {
+    flex-grow: 1;
+    margin-right: 18px;
+}
+
+/* fin 1er card */
+/* 2ème card */
+#plus {
+    border: 1Px solid;
+    height: 79rem;
+    width: 18rem;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    background: #000080;
+    box-shadow: 10px 5px 5px rgb(201, 192, 192);
+    border-radius: 5px
+}
+
+#plusVendu {
+    background-color: white;
+    color: #000080;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.separator {
+    margin-top: -12px !important;
+}
+
+#titrPlus {
+    color: white;
+}
+
+#pHeber2 {
+    text-align: start;
+    margin-left: 3rem;
+    font-size: 18px;
+    color: white;
+}
+
+#anciprix2 {
+    color: white;
+}
+
+#trois2 {
+    font-size: 55px;
+    color: white;
+}
+
+#duree2 {
+    color: white;
+}
+
+.button2 {
+    color: #000080;
+    border: none;
+    padding: 5px;
+    border-radius: 20px;
+    width: 80%;
+    height: 3rem;
+    font-size: 20px;
+    background-color: rgb(23, 237, 237);
+}
+
+.but2 {
+    color: #000080;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    width: 80%;
+    height: 3rem;
+    font-size: 20px;
+    background-color: white;
+}
+
+
+#avantage2 {
+    margin-left: 1rem;
+}
+
+.product-list2 {
+    text-align: start;
+    list-style: none;
+    padding: 20px;
+    width: 100%;
+}
+
+.product-list2 li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    width: 80%;
+    color: white;
+
+}
+
+
+.product-icon2 {
+    margin-left: 15px;
+}
+
+.product-name2 {
+    flex-grow: 1;
+    margin-right: 18px;
+}
+
+/* fin 2è card */
+/* 3è card */
+#premi {
+    border: 1Px solid;
+    height: 80rem;
+    width: 18rem;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    background: white;
+    margin-top: 1rem;
+    box-shadow: 10px 5px 5px rgb(201, 192, 192);
+    border-radius: 5px
+}
+
+
+#titrPlus {
+    color: white;
+}
+
+#pHeber3 {
+    text-align: start;
+    margin-left: 3rem;
+    font-size: 18px;
+    color: #302a50;
+}
+
+#anciprix3 {
+    color: #000080;
+}
+
+#trois3 {
+    font-size: 55px;
+    color: #000080;
+}
+
+#duree3 {
+    color: #000080;
+}
+
+.button3 {
+    color: #000080;
+    border: none;
+    padding: 5px;
+    border-radius: 20px;
+    width: 80%;
+    height: 3rem;
+    font-size: 20px;
+    background-color: rgb(23, 237, 237);
+}
+
+.but3 {
+    color: #000080;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    width: 80%;
+    height: 3rem;
+    font-size: 20px;
+    background-color: white;
+}
+
+
+
+
+.product-list3 {
+    text-align: start;
+    list-style: none;
+    padding: 20px;
+    width: 100%;
+}
+
+.product-list3 li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    width: 80%;
+    color: white;
+
+}
+
+
+.product-icon3 {
+    margin-left: 15px;
+}
+
+.product-name3 {
+    flex-grow: 1;
+    margin-right: 18px;
+}
+
+/* fin 3è card */
+/* 4è card */
+#ultimate {
+    border: 1Px solid;
+    height: 83rem;
+    width: 18rem;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    background: white;
+    margin-top: 1rem;
+    box-shadow: 10px 5px 5px rgb(201, 192, 192);
+    border-radius: 5px
+}
+
+#plusVendu {
+    background-color: white;
+    color: #000080;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#pHeber4 {
+    text-align: start;
+    margin-left: 3rem;
+    font-size: 18px;
+    color: #302a50;
+}
+
+#anciprix4 {
+    color: #000080;
+}
+
+#trois4 {
+    font-size: 55px;
+    color: #000080;
+}
+
+#duree4 {
+    color: #000080;
+}
+
+.button4 {
+    color: #000080;
+    border: none;
+    padding: 5px;
+    border-radius: 20px;
+    width: 80%;
+    height: 3rem;
+    font-size: 20px;
+    background-color: rgb(23, 237, 237);
+}
+
+.but4 {
+    color: #000080;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    width: 80%;
+    height: 3rem;
+    font-size: 20px;
+    background-color: white;
+}
+
+
+
+.product-list4 {
+    text-align: start;
+    list-style: none;
+    padding: 20px;
+    width: 100%;
+}
+
+.product-list4 li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    width: 80%;
+    color: #000080;
+
+}
+
+
+.product-icon4 {
+    margin-left: 15px;
+}
+
+.product-name4 {
+    flex-grow: 1;
+    margin-right: 18px;
+}
+
+/* fin 4ème card */
+
+/* responsivity */
+/* @media only screen and (max-width: 1024px) {
+    h1 {
+        font-size: 30px;
+        color: #302a50;
+    }
+
+    #sousTitre,
+    #sousTitre2 {
+        font-size: 20px;
+        color: #302a50;
+    }
+
+    #stand {
+        margin-left: 2rem;
+        width: 13rem;
+        height: 59rem;
+    }
+
+    #premi {
+        margin-right: 2rem ;
+        width: 13rem;
+        height: 59rem;
+    }
+
+    #plus {
+        margin-right: 2rem ;
+        width: 13rem;
+        height: 59rem;
+    }
+
+    #ultimate {
+        margin-right: 2rem;
+        width: 13rem;
+        height: 62rem;
+    }
+    #pHeber, #pHeber2, #pHeber3, #pHeber4 {
+        font-size: 16px;
+    }
+    .product-list li,.product-list2 li,.product-list3 li, .product-list4 li {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    h1 {
+        font-size: 25px;
+        color: #302a50;
+    }
+
+    #sousTitre,
+    #sousTitre2 {
+        font-size: 16px;
+        color: #302a50;
+    }
+
+    #stand {
+        margin-left: 2rem;
+        width: 11rem;
+        height: 62rem;
+    }
+
+    #premi {
+        margin-right: 2rem ;
+        width: 11rem;
+        height: 62rem;
+    }
+
+    #plus {
+        margin-right: 2rem ;
+        width: 11rem;
+        height: 62rem;
+    }
+
+    #ultimate {
+        margin-right: 2rem;
+        width: 11rem;
+        height: 65rem;
+    }
+    #pHeber, #pHeber2, #pHeber3, #pHeber4 {
+        font-size: 13px;
+    }
+    .product-list li,.product-list2 li,.product-list3 li, .product-list4 li {
+        font-size: 12px;
+    }
+} */
